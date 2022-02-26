@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAE5clwcn1I/RnfgXj0JMpgZdcPKeEFwQA/view?utm_content=DAE5clwcn1I&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel" height="350px" width ="350px">
+<img src="./banner.png" width ="100%">
 
 
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
