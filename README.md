@@ -13,7 +13,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>Angular</span><br><br><br>
-        <img height="64px" src="[/angular-icon.svg](https://cdn.svgporn.com/logos/angular-icon.svg)">
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg)">
       </td>
       <td width="25%" align="center">
         <span>React</span><br><br><br>
