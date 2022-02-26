@@ -32,6 +32,21 @@
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Bootstrap</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Tailwind</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Sass</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -51,8 +66,16 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
       </td>
       <td width="25%" align="center">
+        <span>DRF</span><br><br><br>
+        <img height="64px" src="https://www.thetestspecimen.com/img/django-initial/django-rest-logo-1920w.jpg">
+      </td>
+      <td width="25%" align="center">
         <span>Node JS</span><br><br><br>
         <img height="64px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Node JS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
     </tr>
   </tbody>
@@ -77,7 +100,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
       </td>
       <td width="25%" align="center">
-        <span>Microsoft Azure</span><br><br><br>
+        <span>Azure</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg">
       </td>
     </tr>
