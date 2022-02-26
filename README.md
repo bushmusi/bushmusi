@@ -6,6 +6,10 @@
 
 [![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 
+
+### Some stats about Bushra Mustofa
+<img alt="Bushra's github stats" src="https://github-readme-stats.vercel.app/api?username=bushmusi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
 ## Frontend Technology Skills
 
 <table>
@@ -93,8 +97,6 @@
 3. Awesome Books App. [link](https://github.com/bushmusi/awesome-books-es6)
 4. Receipe Web App. [link](https://github.com/bushmusi/Receipe-Django-Api)
 
-### Some stats about Raghav
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=bushmusi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 ⭐️ From [bushmusi](https://github.com/bushmusi)
 
