@@ -7,8 +7,12 @@
 [![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 
 
-### Some stats about Bushra Mustofa
-<img alt="Bushra's github stats" src="https://github-readme-stats.vercel.app/api?username=bushmusi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+## My Github Statistics 📈
+
+[![Bushra's GitHub stats](https://github-readme-stats.vercel.app/api?username=bushmusi&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushmusi&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Bushra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bushmusi&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Frontend Technology Skills
 
