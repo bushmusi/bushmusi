@@ -1,4 +1,4 @@
-<img src="./banner.png" width ="100%">
+<img src="./banner.png" width ="50%">
 
 
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
