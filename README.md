@@ -115,7 +115,7 @@
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/bushra-mustofa-2620671b7/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:bushera.mestofa@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/bushera_mestofa)
+,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bushera_mestofa)](https://twitter.com/bushera_mestofa)
 - ⚡ Fun fact: I know more computer languages than human languages ! 
 
 ## Top projects 
