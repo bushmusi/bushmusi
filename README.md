@@ -120,7 +120,7 @@
 1. Tech Conference Page. [link](https://bushmusi.github.io/tech-talk/)
 2. Todo List Web App. [link](https://bushmusi.github.io/react-todolist/)
 3. Bookstore app. [link](https://bushmusi-bookstore.herokuapp.com/)
-4. Budget Web App. [link](bush-budget.herokuapp.com/)
+4. Budget Web App. [link](https://bush-budget.herokuapp.com/)
 
 
 ⭐️ From [bushmusi](https://github.com/bushmusi)
