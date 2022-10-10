@@ -117,10 +117,11 @@
 - ⚡ Fun fact: I know more computer languages than human languages ! 
 
 ## Top projects 
-1. Tech Conference Page. [link](https://bushmusi.github.io/tech-talk/)
-2. Todo List Web App. [link](https://bushmusi.github.io/react-todolist/)
+1. Hospital Management System. [link](https://www.youtube.com/watch?v=JmJzhni-BCA&t=87s/)
+2. Medstore Ethiopia. [link](https://medstoret.netlify.app/)
 3. Bookstore app. [link](https://bushmusi-bookstore.herokuapp.com/)
 4. Budget Web App. [link](https://bush-budget.herokuapp.com/)
+5. Todo List Web App. [link](https://bushmusi.github.io/react-todolist/)
 
 
 ⭐️ From [bushmusi](https://github.com/bushmusi)
